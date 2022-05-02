@@ -4,6 +4,7 @@ body{
     align-items: center;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
+    background: #dfae0e;
 }
 .container{
     display: flex;
